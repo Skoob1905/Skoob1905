@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pool/Snooker
 - 🌱 I’m currently learning Remix
 - 💞️ I’m looking to collaborate on anything useful!
-- 📫 How to reach me ... Check out my [LinkedIn](www.linkedin.com/in/josephmeyrick)!
+- 📫 How to reach me ... Check out my [LinkedIn](https://www.linkedin.com/in/josephmeyrick)!
 
 
 
