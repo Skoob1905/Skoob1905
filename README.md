@@ -1,22 +1,6 @@
 ![banner](https://github.com/Skoob1905/Skoob1905/blob/main/Banner.png)
 
-I'm Joseph, a passionate award-winning full stack Remix developer based in Acton, London. Feel free to connect with me or drop me an email at [joseph.s.meyrick@gmail.com](mailto:joseph.s.meyrick@gmail.com).
-
-Come and connect with me on Linkedin. Always around for a technical chat ....
-
-Check it out here -> [![Logo](https://github.com/Skoob1905/Skoob1905/blob/main/linkedinLogo.png)](https://www.linkedin.com/in/josephmeyrick/)
-
 ![pubmetrix Ltd](https://github.com/Skoob1905/Skoob1905/blob/main/Pubmetrix.png)
-
-### Links
-
-Come and see the [app](http://app.pubmetrix.com) here!
-
-Feel free to watch the [explainer video](https://www.youtube.com/watch?v=qCf6KdhbQ0o&t=56s) aswell
-
-### My Role
-
-As a frontend and DevOps engineer, my role was to design and implement the user interface, Create CI/CD process using Github Actions and provision virtual infrastructure to host the app.
 
 ## David Foreman Award for Excellence in Consultancy
 
@@ -25,6 +9,13 @@ I was honored with the David Foreman award for my time working on an internal pr
 Working as frontend engineer, I demonstrated a strong work ethic, and when working closely the the Product Owners, demonstrated a clear understanding of the product goals and exacted this to deliver value expected.
 
 <img src="https://github.com/Skoob1905/Skoob1905/blob/main/David%20Foreman%20Prize.png" alt="award image" width="400" />
+
+### Links
+
+Come and see the [app](http://app.pubmetrix.com) here!
+
+Feel free to watch the [explainer video](https://www.youtube.com/watch?v=qCf6KdhbQ0o&t=56s) aswell
+
 ## Let's Connect!
 
 If you have exciting projects or just want to chat, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or drop me an email at [joseph.s.meyrick@gmail.com](mailto:joseph.s.meyrick@gmail.com).
