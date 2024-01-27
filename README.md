@@ -6,7 +6,7 @@ Come and connect with me on Linkedin. Always around for a technical chat ....
 
 Check it out here -> [![Logo](https://github.com/Skoob1905/Skoob1905/blob/main/linkedinLogo.png)](https://www.linkedin.com/in/josephmeyrick/)
 
-![pubmetrix Ltd](https://github.com/Skoob1905/Skoob1905/blob/main/Pubmetrix.svg)
+![pubmetrix Ltd](https://github.com/Skoob1905/Skoob1905/blob/main/Pubmetrix.png)
 
 ### Links
 
