@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-[![profile banner](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
+[![banner](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)
 
 I'm Joseph, a passionate award-winning full stack Remix developer based in Acton, London. Feel free to connect with me or drop me an email at [your.email@example.com](mailto:your.email@example.com).
 
