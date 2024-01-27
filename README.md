@@ -1,41 +1,52 @@
-# Hi there! 👋
+[![banner](https://github.com/Skoob1905/Skoob1905/blob/main/README.md)](https://github.com/Skoob1905/Skoob1905/blob/main/README.md)
 
-[![profile banner](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
+Welcome to my page!
 
-I'm Joseph, a passionate award-winning full stack Remix developer based in Acton, London. Feel free to connect with me or drop me an email at [your.email@example.com](mailto:your.email@example.com).
+I'm Joseph, a passionate award-winning full stack Remix developer based in Acton, London. Feel free to connect with me or drop me an email at [joseph.s.meyrick@gmail.com](mailto:joseph.s.meyrick@gmail.com).
 
-[LinkedIn](https://www.linkedin.com/in/josephmeyrick/) |[![remix-logo](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/11/remix-logo-1.png?fit=1200%2C600&ssl=1imgurl=https://pbs.twimg.com/media/Fv3NlThaUAI_-VU?format%3Djpg%26name%3D4096x4096&tbnid=npnpGUqG9zvLPM&vet=1&imgrefurl=https://twitter.com/remix_run/status/1656751529578098705&docid=3NtClBFRmyEVPM&w=2731&h=4096&hl=en-GB&source=sh/x/im/m1/3q=Remix+logo&tbm=isch&ved=2ahUKEwi464-Qwo-DAxVVpicCHVvgD7wQ2-cCegQIABAD&oq=Remix+logo&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgoIABCABBCKBRBDOgcIABCABBANOgQIABADOg0IABCABBCKBRBDELEDOggIABCABBCxA1CfCliVMWCeNmgAcAB4AIABkQGIAZ8JkgEDOC40mAEAoAEBsAEAwAEB&sclient=mobile-gws-wiz-img&ei=-kN7ZbiGGtXMnsEP28C_4As&bih=668&biw=390&client=safari&hl=en-gb#imgrc=Mqo5LLUDW6XkIM)](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/11/remix-logo-1.png?fit=1200%2C600&ssl=1imgurl=https://pbs.twimg.com/media/Fv3NlThaUAI_-VU?format%3Djpg%26name%3D4096x4096&tbnid=npnpGUqG9zvLPM&vet=1&imgrefurl=https://twitter.com/remix_run/status/1656751529578098705&docid=3NtClBFRmyEVPM&w=2731&h=4096&hl=en-GB&source=sh/x/im/m1/3q=Remix+logo&tbm=isch&ved=2ahUKEwi464-Qwo-DAxVVpicCHVvgD7wQ2-cCegQIABAD&oq=Remix+logo&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgoIABCABBCKBRBDOgcIABCABBANOgQIABADOg0IABCABBCKBRBDELEDOggIABCABBCxA1CfCliVMWCeNmgAcAB4AIABkQGIAZ8JkgEDOC40mAEAoAEBsAEAwAEB&sclient=mobile-gws-wiz-img&ei=-kN7ZbiGGtXMnsEP28C_4As&bih=668&biw=390&client=safari&hl=en-gb#imgrc=Mqo5LLUDW6XkIM)
+Come and connect with me on Linkedin. Always around for a technical chat ....
 
-## Pubmetrix
+Check it out here -> [![Logo](https://github.com/Skoob1905/Skoob1905/blob/main/linkedin-icon-logo-png-transparent.png)](https://www.linkedin.com/in/josephmeyrick/)
 
-[![Pubmetrix Logo](https://pubmetrix.com/light-logo.svg)](https://pubmetrix.com)
+## Pubmetrix Ltd [![Pubmetrix Logo](https://pubmetrix.com/light-logo.svg)](https://pubmetrix.com)
 
-### About Pubmetrix Ltd
+Simplifying your business metrics and payroll services!
 
-Pubmetrix Ltd is a dynamic company dedicated to simplifying your metrics.
+See explainer video here https://www.youtube.com/watch?v=qCf6KdhbQ0o&t=11s&ab_channel=Pubmetrix
+
+Come out check out the [Pubmetrix App](https://app.pubmetrix.com) here!
+
+We at Pubmetrix have developed an easy-to-use metrics service so you can view weekly trends in sales, cost and profit figures. Metrics can be inputted with just a few clicks of a button!
+
+Register your staff in the app, setup with our fully automated email responder and there information will be available to view. You can change their information or pay rate and each week you can submit a payroll so your staff can even be paid! All HMRC compliant!
+
+An app made by landlords for landlords
 
 ### My Role
 
-As a key team member, I played a crucial role in [describe your role and responsibilities].
+As a frontend and DevOps engineer, my role was to design and implement the user interface, Create CI/CD process using Github Actions and provision virtual infrastructure to host the app.
 
 ### Skills Used
 
-- Skill 1
-- Skill 2
-- Skill 3
+- React/Typescript
+- Docker
+- GitHub Actions
+- Docker
+- Git
+- Figma
 
-![Skill 1](link_to_skill1_image) ![Skill 2](link_to_skill2_image) ![Skill 3](link_to_skill3_image)
+## David Foreman Award for Excellence in Consultancy
 
-## Award Showcase
+I was honored with the David Foreman award for my time working on an internal project at bp.
 
-### [Award Title]
+Working as frontend engineer, I demonstrated a strong work ethic, and when working closely the the Product Owners, demonstrated a clear understanding of the product goals and exacted this to deliver value expected.
 
-I was honored with the [Award Title] for [brief description of why you received the award].
-
-![Award Image](link_to_award_image)
+![ ](https://github.com/Skoob1905/Skoob1905/blob/main/David+Foreman+Prize.png)
 
 ## Let's Connect!
 
-If you have exciting projects or just want to chat, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or drop me an email at [your.email@example.com](mailto:your.email@example.com).
+If you have exciting projects or just want to chat, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or drop me an email at [joseph.s.meyrick@gmail.com](mailto:joseph.s.meyrick@gmail.com).
 
-Looking forward to connecting with you! 😊
+Looking forward to hearing from you! 😊
+
+[![remix-logo](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/11/remix-logo-1.png?fit=1200%2C600&ssl=1imgurl=https://pbs.twimg.com/media/Fv3NlThaUAI_-VU?format%3Djpg%26name%3D4096x4096&tbnid=npnpGUqG9zvLPM&vet=1&imgrefurl=https://twitter.com/remix_run/status/1656751529578098705&docid=3NtClBFRmyEVPM&w=2731&h=4096&hl=en-GB&source=sh/x/im/m1/3q=Remix+logo&tbm=isch&ved=2ahUKEwi464-Qwo-DAxVVpicCHVvgD7wQ2-cCegQIABAD&oq=Remix+logo&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgoIABCABBCKBRBDOgcIABCABBANOgQIABADOg0IABCABBCKBRBDELEDOggIABCABBCxA1CfCliVMWCeNmgAcAB4AIABkQGIAZ8JkgEDOC40mAEAoAEBsAEAwAEB&sclient=mobile-gws-wiz-img&ei=-kN7ZbiGGtXMnsEP28C_4As&bih=668&biw=390&client=safari&hl=en-gb#imgrc=Mqo5LLUDW6XkIM)](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/11/remix-logo-1.png?fit=1200%2C600&ssl=1imgurl=https://pbs.twimg.com/media/Fv3NlThaUAI_-VU?format%3Djpg%26name%3D4096x4096&tbnid=npnpGUqG9zvLPM&vet=1&imgrefurl=https://twitter.com/remix_run/status/1656751529578098705&docid=3NtClBFRmyEVPM&w=2731&h=4096&hl=en-GB&source=sh/x/im/m1/3q=Remix+logo&tbm=isch&ved=2ahUKEwi464-Qwo-DAxVVpicCHVvgD7wQ2-cCegQIABAD&oq=Remix+logo&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgoIABCABBCKBRBDOgcIABCABBANOgQIABADOg0IABCABBCKBRBDELEDOggIABCABBCxA1CfCliVMWCeNmgAcAB4AIABkQGIAZ8JkgEDOC40mAEAoAEBsAEAwAEB&sclient=mobile-gws-wiz-img&ei=-kN7ZbiGGtXMnsEP28C_4As&bih=668&biw=390&client=safari&hl=en-gb#imgrc=Mqo5LLUDW6XkIM)
