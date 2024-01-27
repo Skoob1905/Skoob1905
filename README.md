@@ -1,6 +1,4 @@
-[![banner](https://github.com/Skoob1905/Skoob1905/blob/main/README.md)](https://github.com/Skoob1905/Skoob1905/blob/main/README.md)
-
-Welcome to my page!
+[![banner](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)
 
 I'm Joseph, a passionate award-winning full stack Remix developer based in Acton, London. Feel free to connect with me or drop me an email at [joseph.s.meyrick@gmail.com](mailto:joseph.s.meyrick@gmail.com).
 
@@ -41,7 +39,7 @@ I was honored with the David Foreman award for my time working on an internal pr
 
 Working as frontend engineer, I demonstrated a strong work ethic, and when working closely the the Product Owners, demonstrated a clear understanding of the product goals and exacted this to deliver value expected.
 
-![ ](https://github.com/Skoob1905/Skoob1905/blob/main/David+Foreman+Prize.png)
+![ ](https://github.com/Skoob1905/Skoob1905/blob/main/David%20Foreman%20Prize.png)
 
 ## Let's Connect!
 
