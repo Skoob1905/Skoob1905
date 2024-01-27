@@ -6,32 +6,17 @@ Come and connect with me on Linkedin. Always around for a technical chat ....
 
 Check it out here -> [![Logo](https://github.com/Skoob1905/Skoob1905/blob/main/linkedin-icon-logo-png-transparent.png)](https://www.linkedin.com/in/josephmeyrick/)
 
-## Pubmetrix Ltd [![Pubmetrix Logo](https://pubmetrix.com/light-logo.svg)](https://pubmetrix.com)
+[![pubmetrix Ltd](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)](https://github.com/Skoob1905/Skoob1905/blob/main/Pubmetrix.svg)
 
-Simplifying your business metrics and payroll services!
+### Links
 
-See explainer video here https://www.youtube.com/watch?v=qCf6KdhbQ0o&t=11s&ab_channel=Pubmetrix
+Come and see the [app](http://app.pubmetrix.com) here!
 
-Come out check out the [Pubmetrix App](https://app.pubmetrix.com) here!
-
-We at Pubmetrix have developed an easy-to-use metrics service so you can view weekly trends in sales, cost and profit figures. Metrics can be inputted with just a few clicks of a button!
-
-Register your staff in the app, setup with our fully automated email responder and there information will be available to view. You can change their information or pay rate and each week you can submit a payroll so your staff can even be paid! All HMRC compliant!
-
-An app made by landlords for landlords
+Feel free to watch the [explainer video](https://www.youtube.com/watch?v=qCf6KdhbQ0o&t=56s) aswell
 
 ### My Role
 
 As a frontend and DevOps engineer, my role was to design and implement the user interface, Create CI/CD process using Github Actions and provision virtual infrastructure to host the app.
-
-### Skills Used
-
-- React/Typescript
-- Docker
-- GitHub Actions
-- Docker
-- Git
-- Figma
 
 ## David Foreman Award for Excellence in Consultancy
 
