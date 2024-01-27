@@ -1,15 +1,5 @@
 ![banner](https://github.com/Skoob1905/Skoob1905/blob/main/Banner.png)
 
-![pubmetrix Ltd](https://github.com/Skoob1905/Skoob1905/blob/main/Pubmetrix.png)
-
-## David Foreman Award for Excellence in Consultancy
-
-I was honored with the David Foreman award for my time working on an internal project at bp.
-
-Working as frontend engineer, I demonstrated a strong work ethic, and when working closely the the Product Owners, demonstrated a clear understanding of the product goals and exacted this to deliver value expected.
-
-<img src="https://github.com/Skoob1905/Skoob1905/blob/main/David%20Foreman%20Prize.png" alt="award image" width="400" />
-
 ### Links
 
 Come and see the [app](http://app.pubmetrix.com) here!
