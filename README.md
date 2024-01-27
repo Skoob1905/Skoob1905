@@ -1,13 +1,12 @@
-[![banner](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)
+![banner](https://github.com/Skoob1905/Skoob1905/blob/main/Banner.png)
 
 I'm Joseph, a passionate award-winning full stack Remix developer based in Acton, London. Feel free to connect with me or drop me an email at [joseph.s.meyrick@gmail.com](mailto:joseph.s.meyrick@gmail.com).
 
 Come and connect with me on Linkedin. Always around for a technical chat ....
 
-Check it out here -> [![Logo](https://github.com/Skoob1905/Skoob1905/blob/main/linkedin-icon-logo-png-transparent.png)](https://www.linkedin.com/in/josephmeyrick/)
+Check it out here -> <img src="https://github.com/Skoob1905/Skoob1905/blob/main/linkedin-icon-logo-png-transparent.png" alt="drawing" width="30" style="margin-top: 10px"/> [Joseph Meyrick](https://linkedin.com/in/josephmeyrick)
 
-## Pubmetrix Ltd [![Pubmetrix Logo](https://pubmetrix.com/light-logo.svg)](https://pubmetrix.com)
-
+## Pubmetrix Ltd <img src="https://app.pubmetrix.com/light-logo.svg" alt="drawing" width="70" style="margin-top: 10px"/>
 Simplifying your business metrics and payroll services!
 
 See explainer video here https://www.youtube.com/watch?v=qCf6KdhbQ0o&t=11s&ab_channel=Pubmetrix
@@ -39,8 +38,7 @@ I was honored with the David Foreman award for my time working on an internal pr
 
 Working as frontend engineer, I demonstrated a strong work ethic, and when working closely the the Product Owners, demonstrated a clear understanding of the product goals and exacted this to deliver value expected.
 
-![ ](https://github.com/Skoob1905/Skoob1905/blob/main/David%20Foreman%20Prize.png)
-
+<img src="https://github.com/Skoob1905/Skoob1905/blob/main/David%20Foreman%20Prize.png" alt="award image" width="400" />
 ## Let's Connect!
 
 If you have exciting projects or just want to chat, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or drop me an email at [joseph.s.meyrick@gmail.com](mailto:joseph.s.meyrick@gmail.com).
