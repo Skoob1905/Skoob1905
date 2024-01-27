@@ -4,9 +4,9 @@ I'm Joseph, a passionate award-winning full stack Remix developer based in Acton
 
 Come and connect with me on Linkedin. Always around for a technical chat ....
 
-Check it out here -> [![Logo](https://github.com/Skoob1905/Skoob1905/blob/main/linkedin-icon-logo-png-transparent.png)](https://www.linkedin.com/in/josephmeyrick/)
+Check it out here -> [![Logo](https://github.com/Skoob1905/Skoob1905/blob/main/linkedinLogo.png)](https://www.linkedin.com/in/josephmeyrick/)
 
-[![pubmetrix Ltd](https://github.com/Skoob1905/Skoob1905/blob/main/V1%20Github%20Banner.png)](https://github.com/Skoob1905/Skoob1905/blob/main/Pubmetrix.svg)
+![pubmetrix Ltd](https://github.com/Skoob1905/Skoob1905/blob/main/Pubmetrix.svg)
 
 ### Links
 
